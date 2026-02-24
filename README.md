@@ -62,7 +62,7 @@ Hey! I'm **Wasim Akhtar**, a B.Tech Computer Science student specializing in **A
     </td>
     <td align="center" width="50%">
       <h3>🌐 Web Application</h3>
-      <p><i>salim.</i></p>
+      <p><i>coming soon..</i></p>
       <p>Building full-stack projects to sharpen my skills!</p>
     </td>
   </tr>
