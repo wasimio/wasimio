@@ -69,6 +69,8 @@ Hey! I'm **Wasim Akhtar**, a B.Tech Computer Science student specializing in **A
 </table>
 
 </div>
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
